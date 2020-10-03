@@ -1,3 +1,5 @@
+/* Reorganized CSS such that it mirrors structure of the HTML code  */
+
 body {
     background-color: #d9dcd6;
 }
@@ -14,6 +16,9 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
+
+/* Created links class to more succinctly address these styling parameters */
+
 .links {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +52,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Eliminated redundancy by condensing declarations for three classes */
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -86,6 +94,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Eliminated redundancy by condensing declarations for three classes */
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
