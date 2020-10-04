@@ -23,7 +23,7 @@ The HTML and CSS files reflect updates that include the following actions:
 
   * Reorganization of CSS such that it mirrors structure of the HTML code.
 
-  * Utilization of the default browser to ensure that the visual representation of the updated HTML and CSS files conincides with the source code output.
+  * Utilization of the default browser to ensure that the visual representation of the updated HTML and CSS files coincides with the source code output.
 
 
 ## Webs Link and Preview
