@@ -40,4 +40,4 @@ The HTML and CSS files reflect updates that include the following actions:
 
 ## Acknowledgements
 
-    Thank you Jacky(tongjac) for peer-reviewing. Looking forward to continuing to learn alongside you.
+Thank you Jacky(tongjac) for peer-reviewing. Looking forward to continuing to learn alongside you.
