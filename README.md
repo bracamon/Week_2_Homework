@@ -3,16 +3,20 @@
 ## Objective
 The goal of this exercise is to refactor existing code such that it meets the following critera set forth by the client:
 
-- GIVEN a webpage meets accessibility standards
-- WHEN I view the source codeTHEN I find semantic HTML elements
-- WHEN I view the structure of the HTML elements
-- THEN I find that the elements follow a logical structure independent of styling and positioning
-- WHEN I view the image elements
-- THEN I find accessible alt attributes
-- WHEN I view the heading attributes
-- THEN they fall in sequential order
-- WHEN I view the title element
-- THEN I find a concise, descriptive title
+GIVEN a webpage meets accessibility standards
+</br>WHEN I view the source codeTHEN I find semantic HTML elements
+
+WHEN I view the structure of the HTML elements
+</br>THEN I find that the elements follow a logical structure independent of styling and positioning
+
+WHEN I view the image elements
+</br>THEN I find accessible alt attributes
+
+WHEN I view the heading attributes
+</br>THEN they fall in sequential order
+
+WHEN I view the title element
+</br>THEN I find a concise, descriptive title
 
 ## Actions
 The HTML and CSS files reflect updates that include the following actions:
@@ -26,7 +30,7 @@ The HTML and CSS files reflect updates that include the following actions:
   * Utilization of the default browser to ensure that the visual representation of the updated HTML and CSS files coincides with the source code output.
 
 
-## Webs Link and Preview
+## Web Link and Preview
 
 [GitHub Page Link](https://bracamon.github.io/bracamon_hw_01/)
 
